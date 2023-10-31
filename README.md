@@ -13,11 +13,9 @@ Hello，我是麦麦猫，一名热爱技术和开源的25届准前端工程师
 ### 努力努力再努力⚡⚡⚡
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyYangZai&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmcCat&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoyYangZai&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmcCat&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mcmcCat/mcmcCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
